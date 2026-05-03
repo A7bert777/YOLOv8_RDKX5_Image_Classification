@@ -1,0 +1,4 @@
+Image: 5.jpg
+Classification results (Top 2):
+TOP1 -> id: 0, score: 1.000, name: down
+TOP2 -> id: 1, score: 0.000, name: up

@@ -1,0 +1,3 @@
+/home/sunrise/YOLOv8_RDKX5_Image_Classification/build/CMakeFiles/rdkx5_yolov8_cls.dir
+/home/sunrise/YOLOv8_RDKX5_Image_Classification/build/CMakeFiles/edit_cache.dir
+/home/sunrise/YOLOv8_RDKX5_Image_Classification/build/CMakeFiles/rebuild_cache.dir
